@@ -16,3 +16,6 @@
 - Top Hostel (http://tophostel.com.br/)
 - REINC (https://www.reinc.org.br/)
 - Kyra Fotografia (http://www.kyramirsky.com/)
+- Artia Gestão de Projetos (http://artia.com/)
+- Fleeg CRM (http://fleeg.com/)
+- Grupo Euax (http://grupoeuax.com/)
